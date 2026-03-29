@@ -49,7 +49,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anmol_Verma-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/anmol-verma-b49a1a239)
 [![Email](https://img.shields.io/badge/Email-av992894@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:av992894@gmail.com)
-[![Portfolio](https://mycareerstillgrowing.vercel.app/)]([https://mycareerstillgrowing.vercel.app/](https://mycareerstillgrowing.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-my_portfolio.com-1B6B5A?style=flat-square)]([https://mycareerstillgrowing.vercel.app/](https://mycareerstillgrowing.vercel.app/))
 
 ---
 
